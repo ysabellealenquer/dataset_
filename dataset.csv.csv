@@ -1,0 +1,70 @@
+Nome da coluna/campo;Descrição;Tipo;Origem
+Operacao;Código do contrato;varchar;Original
+area;Código da área;char;Original
+ope;Sequencial da operação;decimal;Original
+Objetivo_da_Operacao;Identificador do objetivo da operação;decimal;Original
+Aplicacao_de_Recursos;Código da aplicação dos recursos;decimal;Original
+Tempo_Em_Anos;Contagem do tempo de duração da operação;decimal;Original
+Percentual_de_Subsidio;Percentual de Subsídio;decimal;Original
+Operacao_Prefixada;Código de tipo de operação prefixada;decimal;Original
+Pendencia_de_Cobertura_do_PROAGRO;Identificador de pendência de cobertura do Proagro;decimal;Original
+Expurgo_da_Operacao;Identificador de Expurgo da Operacao;decimal;Original
+Tipo_de_Assistencia_Tecnica;Código de tipo de Assistência Técnica;decimal;Original
+Tipo_de_Renegociacao;Código de tipo de Renegociação;decimal;Original
+Amparo_da_Operacao;Código de tipo de Amparo;decimal;Original
+Operacao_Especial;Identificador de Operação especial;decimal;Original
+Associados_Beneficiados;Código de tipo de Associados;decimal;Original
+Agricultura_Familiar;Identificador de Agricultura Familiar;decimal;Original
+Pessoas_Assentadas;Identificador de Pessoas Assentadas;decimal;Original
+Grupo_do_Cliente;Código de tipo de grupo do cliente;decimal;Original
+Faixa_valores;Grupo de faixas de valor da operação;decimal;Original
+Tipo_de_Cobertura;Código de tipo de Cobertura;decimal;Original
+Pendência_do_PROCERA;Identificador de Procera;decimal;Original
+Total_do_FNE_Risco;Código de tipo de risco do FNE;decimal;Original
+Tipo_de_Tratamento;Código de tipo de tratamento;decimal;Original
+Forma_de_Credito;Código de forma de crédito;decimal;Original
+Tipo_de_PROAGRO;Código de tipo de proagro;decimal;Original
+Operacao_Estruturada;Identificador de Operação estruturada;decimal;Original
+Cultura_Consorciada;Identificador de cultura consorciada;decimal;Original
+Garantia_LCA;Identificador de Garantia LCA;decimal;Original
+Incidencia_de_IOF;Identificador de IOF;decimal;Original
+Motivo_Renegociacao;Código de tipo de motivo;decimal;Original
+Custo_Efetivo_Total;Identificador de custo efetivo;decimal;Original
+Tipo_de_Conta;Código de tipo de conta;decimal;Original
+Setor_de_Atividade;Código de tipo de setor de atividade;decimal;Original
+Subsidio;Identificador de subsídio;decimal;Original
+Atividade;Código de tipo de atividade;decimal;Original
+Destinacao_de_Recursos;Código de tipo de destinação;decimal;Original
+Contra_Partida_do_BID;Identificador de BID;decimal;Original
+Semi_Arido;Identificador de Semi Árido;decimal;Original
+Finalidade_do_Financiamento;Código de tipo de Finalidade do Financiamento;decimal;Original
+Agricultura_Irrigada;Identificador de Agricultura irrigada;decimal;Original
+Tipo_de_Correcao;Código de tipo de Correção;decimal;Original
+Fonte_de_Recursos;Código de tipo de fonte de recursos;decimal;Original
+Programa_de_Credito;Código de tipo de programa de crédito;decimal;Original
+Categoria_do_Produtor;Código de tipo de categoria do produtor;decimal;Original
+Tipo_de_Recurso;Código de tipo de recurso;decimal;Original
+Garantia;Identificador de operação garantida;decimal;Original
+Operacao_Alongada;Identificador de operação alongada;decimal;Original
+Risco_FNE;Código de tipo de riso do FNE;decimal;Original
+Tipo_Lei;Código de tipo de lei;decimal;Original
+Operacao_Consignacao;Identificador de consignação;decimal;Original
+Tem_Bonus;Identificador de bônus;decimal;Original
+Tem_debito;Identificador de cadastramento de débito em conta corrente;decimal;Original
+Tem_garantia;Identificador de cadastramento de garantia;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Indexador_mensal;Identificador de moeda indexada com cotação mensal;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Indexador_diario;Identificador de moeda indexada com cotação diária;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Credito_Evento_Semestral;Identificador de agenda de crédito de encargos com frequência semestral;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Credito_Evento_Anual;Identificador de agenda de crédito de encargos com frequência anual;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Credito_Evento_Mensal;Identificador de agenda de crédito de encargos com frequência mensal;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Credito_Evento_Trimestral;Identificador de agenda de crédito de encargos com frequência trimestral;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Debito_Evento_Semestral;Identificador de agenda de débito de encargos com frequência semestral;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Debito_Evento_Anual;Identificador de agenda de débito de encargos com frequência anual;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Debito_Evento_Mensal;Identificador de agenda de débito de encargos com frequência mensal;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Debito_Evento_Trimestral;Identificador de agenda de débito de encargos com frequência trimestral;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Debito_Evento_Diario;Identificador de agenda de débito de encargos com frequência diária;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Desembolso_Unico;Identificador de desembolso realizado uma única vez;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Carencia;Identificador de operação com carência;decimal;Gerado especialmente para a realizaçao do trabalho
+E_Renegociada;Identificador de operação que já foi renegociada;decimal;Gerado especialmente para a realizaçao do trabalho
+E_Transferida;Identificador de operação que foi transferida de outra agência;decimal;Gerado especialmente para a realizaçao do trabalho
+Tem_Prejuizo;Identificador de prejuízo;decimal;Gerado especialmente para a realizaçao do trabalho
